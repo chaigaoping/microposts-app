@@ -37,6 +37,8 @@ gem 'jbuilder', '~> 2.5'
 
 gem 'minitest-reporters'
 gem 'guard'
+gem 'bootstrap-sass'
+gem 'awesome_rails_console'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
